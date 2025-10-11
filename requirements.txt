@@ -1,0 +1,7 @@
+streamlit
+reportlab
+openai-whisper
+torch
+torchaudio
+torchvision
+google-generativeai
