@@ -1,0 +1,61 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.log
+
+# ---- Virtual Environments ----
+.env
+.venv/
+venv/
+env/
+ENV/
+
+# ---- Streamlit ----
+.streamlit/
+.streamlit/secrets.toml
+
+# ---- VS Code ----
+.vscode/
+*.code-workspace
+
+# ---- macOS / Linux / Windows ----
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# ---- Temporary & Cache Files ----
+tmp/
+temp/
+.cache/
+.ipynb_checkpoints/
+*.tmp
+*.bak
+*.old
+*.orig
+
+# ---- Audio / Transcription Artifacts ----
+*.wav
+*.mp3
+*.m4a
+
+# ---- Reports & Exports ----
+*.pdf
+
+# ---- Environment variables ----
+.env
+.env.local
+.env.*.local
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+
+# ---- PyInstaller ----
+*.manifest
+*.spec
