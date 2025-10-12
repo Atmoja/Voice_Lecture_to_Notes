@@ -1,7 +1,10 @@
 streamlit
 reportlab
+whisper
 openai-whisper
 torch
 torchaudio
 torchvision
 google-generativeai
+python-dotenv
+ffmpeg-python
